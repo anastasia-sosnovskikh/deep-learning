@@ -5,4 +5,5 @@ The topics covered include:
 * Fashion MNIST and Neural Networks
 * Working with Classes and Tensors
 * Working with Loss, Autograd, and Optimizers
-* Troubleshooting and CPU/GPU Usage
+* Troubleshooting with Python Debugger
+* CPU/GPU Usage with `cuda`
